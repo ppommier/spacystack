@@ -1,13 +1,5 @@
 # README #
 
-This README would normally document whatever steps are necessary to get your application up and running.
-
-## setting repository ssh key ##
-```
-eval $(ssh-agent)
-ssh-add ~/.ssh/bitbucket_rsa
-```
-
 ## Spacy repository et documentation ##
 lien vers la documentation spacy
 * https://spacy.io/universe/category/apis
